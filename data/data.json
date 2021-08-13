@@ -12,7 +12,7 @@
       "gender": "female",
       "size": "large",
       "color": "pink",
-      "image": "./../imgs/pink_t.png"
+      "image": "minishopping/imgs/pink_t.png"
     },
     {
       "type": "pant",
