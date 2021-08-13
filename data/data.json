@@ -5,49 +5,49 @@
       "gender": "female",
       "size": "large",
       "color": "pink",
-      "image": "minishopping/imgs/pink_p.png"
+      "image": "./imgs/pink_p.png"
     },
     {
       "type": "tshirt",
       "gender": "female",
       "size": "large",
       "color": "pink",
-      "image": "minishopping/imgs/pink_t.png"
+      "image": "./imgs/pink_t.png"
     },
     {
       "type": "pant",
       "gender": "female",
       "size": "large",
       "color": "blue",
-      "image": "./minishopping/imgs/blue_p.png"
+      "image": "./imgs/blue_p.png"
     },
     {
       "type": "skirt",
       "gender": "female",
       "size": "large",
       "color": "blue",
-      "image": "./../imgs/blue_s.png"
+      "image": "./imgs/blue_s.png"
     },
     {
       "type": "skirt",
       "gender": "female",
       "size": "large",
       "color": "yellow",
-      "image": "./../imgs/yellow_s.png"
+      "image": "./imgs/yellow_s.png"
     },
     {
       "type": "pant",
       "gender": "female",
       "size": "large",
       "color": "yellow",
-      "image": "./../imgs/yellow_p.png"
+      "image": "./imgs/yellow_p.png"
     },
     {
       "type": "pant",
       "gender": "female",
       "size": "large",
       "color": "pink",
-      "image": "./../imgs/pink_p.png"
+      "image": "./imgs/pink_p.png"
     }
   ]
 }
