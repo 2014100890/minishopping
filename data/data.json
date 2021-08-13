@@ -12,14 +12,14 @@
       "gender": "female",
       "size": "large",
       "color": "pink",
-      "image": "./../imgs/pink_t.png"
+      "image": "minishopping/imgs/pink_t.png"
     },
     {
       "type": "pant",
       "gender": "female",
       "size": "large",
       "color": "blue",
-      "image": "./../imgs/blue_p.png"
+      "image": "imgs/blue_p.png"
     },
     {
       "type": "skirt",
